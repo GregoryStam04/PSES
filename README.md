@@ -55,7 +55,7 @@ jupyter notebook
 
 ## Credits
 
-Project by Greg Stamory and Vasileiadis Dimitris.
+Project by Gregory Stamatopoulos and Vasileiadis Dimitris.
 
 ## License
 
