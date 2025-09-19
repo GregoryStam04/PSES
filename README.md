@@ -1,20 +1,62 @@
-Hi!
+<div align="center">
+  <h1>PSES: Digital Signal Processing Projects</h1>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python Version">
+    <img src="https://img.shields.io/badge/Jupyter-Notebook-orange" alt="Jupyter">
+  </p>
+</div>
 
-This repo consists of two projects for the class of Digital Signals Processing
-at the 6th Semester of ECE NTUA.
+## Overview
 
-It provides a brief and playfull understanding of concepts like signal recostruction, noise 
-filtering and background noise removal, as well as notes detection.
+This repository contains two projects for the Digital Signal Processing course (6th Semester, ECE NTUA). The projects demonstrate concepts such as:
 
-The instructions given by the professor are written in Greek and are located 
-at the Instructions folder, and some sample sounds in the Material folder.
+- Signal reconstruction
+- Noise filtering
+- Background noise removal
+- Notes detection
 
-Code is written in Jupiter Notebook, using Python libraries such as: 
-	numpy 
-	matplotlib
-	soundfile
-	IPython
-	librosa
-	scipy
+Sample sounds are provided in the `Material/` folder. Project instructions (in Greek) are in the `Instructions/` folder.
 
-I would also like to thank my partner in these projects, Vasileiadis Dimitris.
+## Folder Structure
+
+- `Project_Lab1_code/` — Jupyter Notebooks for Lab 1
+- `Project_lab2_code/` — Jupyter Notebooks for Lab 2
+- `Material/` — Sample sound files
+- `Instructions/` — Project instructions (PDF, Greek)
+- `Final Outputs/` — Output audio files
+- `Reports/` — Project reports (PDF)
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have Python 3.8+ and the following libraries installed:
+
+- numpy
+- matplotlib
+- soundfile
+- IPython
+- librosa
+- scipy
+
+You can install the dependencies using pip:
+
+```bash
+pip install numpy matplotlib soundfile ipython librosa scipy
+```
+
+### Usage
+
+Open the Jupyter Notebooks in the `Project_Lab1_code/` and `Project_lab2_code/` folders to explore the code and run the experiments.
+
+```bash
+jupyter notebook
+```
+
+## Credits
+
+Project by Greg Stamory and Vasileiadis Dimitris.
+
+## License
+
+This repository is for educational purposes. See individual files for license information if provided.
